@@ -358,7 +358,7 @@
     {
       "chainId": 111,
       "address_spl": "5GYUUQwZzPKK3Thwn5jpbTBPX6cgBTPYzN1Q9EvXWkBq",
-      "address": "",
+      "address": "0x760c8f80789bdc0354d73d15ae58736cb5fc5679",
       "decimals": 8,
       "name": "Wrapped ETHER (Wormhole)",
       "symbol": "WETH",
