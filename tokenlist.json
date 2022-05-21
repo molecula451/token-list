@@ -367,7 +367,7 @@
     {
       "chainId": 245022926,
       "address_spl": "83xzSZsbx5sEjev5GqPLZT1ehnBUxs3PzwQg2PbRMFBi",
-      "address": "0xaf16050aa967d5109f2cc8713db6a5eef7edbee3",
+      "address": "0x2A78BA72f52Af2CC90c9389DbE0d2C4B10055b81",
       "decimals": 8,
       "name": "Wrapped HUMAN",
       "symbol": "WHMT",
@@ -376,7 +376,7 @@
     {
       "chainId": 111,
       "address_spl": "83xzSZsbx5sEjev5GqPLZT1ehnBUxs3PzwQg2PbRMFBi",
-      "address": "0xaf16050aa967d5109f2cc8713db6a5eef7edbee3",
+      "address": "0x2A78BA72f52Af2CC90c9389DbE0d2C4B10055b81",
       "decimals": 8,
       "name": "Wrapped HUMAN",
       "symbol": "WHMT",
